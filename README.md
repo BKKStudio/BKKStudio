@@ -7,7 +7,7 @@ Age: 21 ปี <br/>
 คณะวิทยาลัยวิศวกรรมศาสตร์ สาขา วิศวะคอมพิวเตอร์ <br/>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="[https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png](https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp)" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
