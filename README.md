@@ -2,7 +2,7 @@
 ชื่อ: เสกศักดิ์ อรัญโชติ 
 Name: Seksak Aranchot
 Age: 21 ปี
-ศึกษาที่: มหาวิทยาลัยรังสิต   <img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://w7.pngwing.com/pngs/496/698/png-transparent-rangsit-university-rangsit-thailand-mahidol-university-naresuan-university-thammasat-university-oriental-text-people-symmetry.png)" title="React" alt="React" width="40" height="40"/>&nbsp;
+ศึกษาที่: มหาวิทยาลัยรังสิต   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Rangsit_University_Logo.svg/640px-Rangsit_University_Logo.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
