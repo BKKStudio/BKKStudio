@@ -1,7 +1,7 @@
 ### สวัสดีครับ 👋
-ชื่อ: เสกศักดิ์ อรัญโชติ 
-Name: Seksak Aranchot
-Age: 21 ปี
+ชื่อ: เสกศักดิ์ อรัญโชติ <br/>
+Name: Seksak Aranchot <br/>
+Age: 21 ปี <br/>
 ศึกษาที่: มหาวิทยาลัยรังสิต   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Rangsit_University_Logo.svg/640px-Rangsit_University_Logo.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 ### :hammer_and_wrench: Languages and Tools :
 <div>
